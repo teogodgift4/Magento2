@@ -1,0 +1,8 @@
+This is a custom shipping module for Magento 2 (2.3.3).
+It can use a standar payment amount that can be filled by admin in the backend.
+Also, it can has free shipping cost for some amount (admin also filled it in the backend) or / and can use some coupons for free shipping (FREESHIPPING).
+It can be used for any country admin wants.
+Finally, it is visible both in frontend and backend.
+
+-------------------------  INSTALLATION ------------------------
+For simplicity of use, just make a vendor file called 'Stonewave' and a module file called 'Shippingmodule'
